@@ -14,6 +14,15 @@ body{
     border: 1px solid #DDD;
     margin: 0 auto;
 }
+#cabecera{
+    background: black;
+    color: blanchedalmond;
+    margin: 0;
+    padding: 0.5em;
+    text-align: center;
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+     -moz-box-shadow: 0 10px 6px -6px #777;
+         
 
 #conainer h1{
     font-size: 20px;
